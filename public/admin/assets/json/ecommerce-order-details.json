@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "product_name": "گوشی Oneplus 10",
+      "product_info": "فضای ذخیره سازی:128gb",
+      "image": "oneplus.png",
+      "qty": 3,
+      "price": 17380000
+    },
+    {
+      "id": 2,
+      "product_name": "نایک جردن",
+      "product_info": "سایز: 8UK",
+      "image": "nikejordan.png",
+      "qty": 1,
+      "price": 7840000
+    },
+    {
+      "id": 3,
+      "product_name": "صندلی چوبی",
+      "product_info": "جنس: چوب",
+      "image": "woodenchair.png",
+      "qty": 2,
+      "price": 16820000
+    },
+    {
+      "id": 4,
+      "product_name": "کرم صورت",
+      "product_info": "مخصوص بانوان",
+      "image": "facecream.png",
+      "qty": 2,
+      "price": 1260000
+    }
+  ]
+}

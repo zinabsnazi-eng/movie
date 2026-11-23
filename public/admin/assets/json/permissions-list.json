@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "مدیریت",
+      "assigned_to": [
+        "Admin"
+      ],
+      "created_date": "14 خرداد 1401, 8:43 ب.ظ"
+    },
+    {
+      "id": 2,
+      "name": "مدیریت صورت‌حساب و نقش‌ها",
+      "assigned_to": [
+        "Admin"
+      ],
+      "created_date": "16مرداد 1401, 5:20 ب.ظ"
+    },
+    {
+      "id": 3,
+      "name": "افزودن و حذف کاربران",
+      "assigned_to": [
+        "Admin",
+        "Manager"
+      ],
+      "created_date": "14 Oct 2021, 10:20 AM"
+    },
+    {
+      "id": 4,
+      "name": "برنامه ریزی پروژه",
+      "assigned_to": [
+        "Admin",
+        "Users",
+        "Support"
+      ],
+      "created_date": "15 تیر 1401, 12:10 ب.ظ"
+    },
+    {
+      "id": 5,
+      "name": "مدیریت توالی ایمیل",
+      "assigned_to": [
+        "Admin",
+        "Users",
+        "Support"
+      ],
+      "created_date": "23 مرداد 1401, 2:00 ب.ظ"
+    },
+    {
+      "id": 6,
+      "name": "ارتباط با مشتری",
+      "assigned_to": [
+        "Admin",
+        "Manager"
+      ],
+      "created_date": "19 تیر 1401 , 11:30 ب.ظ"
+    },
+    {
+      "id": 7,
+      "name": "فقظ مشاهده",
+      "assigned_to": [
+        "Admin",
+        "Restricted"
+      ],
+      "created_date": "4 آبان 1401 , 8:15 ب.ظ"
+    },
+    {
+      "id": 8,
+      "name": "مدیریت مالی",
+      "assigned_to": [
+        "Admin",
+        "Manager"
+      ],
+      "created_date": "26 آذر 1401 , 10:30 ب.ظ"
+    },
+    {
+      "id": 9,
+      "name": "مدیریت تسک های دیگران",
+      "assigned_to": [
+        "Admin",
+        "Support"
+      ],
+      "created_date": "8 دی 1401 , 11:45 ب.ظ"
+    }
+  ]
+}
